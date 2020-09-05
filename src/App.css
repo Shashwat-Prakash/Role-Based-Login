@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.main_header {
+  background-color: #3098b4;
+  height: 150px;
+}
+
+.main_h1 {
+  padding-top: 10px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container > div {
+  width: 150px;
+  margin: 50px;
+  padding: 50px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.login_style {
+  align-content: center;
+}
